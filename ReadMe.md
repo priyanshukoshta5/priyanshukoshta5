@@ -1,7 +1,5 @@
 # 🎇 About Me:
-I'm currently learning data structures and algorithms and working on some projects related to software engineering and machine laerning.
-
-[![](https://visitcount.itsvg.in/api?id=priyanshukoshta5&icon=5&color=0)](https://visitcount.itsvg.in)
+I'm currently learning data structures and algorithms and working on some projects related to software engineering and machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-koshta) 
@@ -21,6 +19,9 @@ I'm currently learning data structures and algorithms and working on some projec
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=priyanshukoshta5&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### 👀 Visited Count
+[![](https://visitcount.itsvg.in/api?id=priyanshukoshta5&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
 
