@@ -1,7 +1,7 @@
-<h1 align="center">Helo, I'm Priyanshu Koshta😀</h1>
+<h1 align="center">Hello, I'm Priyanshu Koshta😀</h1>
 
 # 🎇 About Me:
-I'm currently learning data structures and algorithms and working on some projects related to software engineering and machine learning.
+I'm a final year CSE student, currently learning data structures and algorithms and working on some projects related to software engineering and machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-koshta) 
